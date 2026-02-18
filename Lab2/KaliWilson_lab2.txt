@@ -1,0 +1,62 @@
+Script started on 2026-02-12 11:27:48-08:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="150" LINES="31"]
+
+ Hey, Kali.
+
+]11;?[c[1m[38;2;255;28;141m             .',;::::;,'.             [39m[49m
+[38;2;255;28;141m         .';:cccccccccccc:;,.         [39m[49m
+[38;2;255;28;141m      .;cccccccccccccccccccccc;.      [39m[49m
+[38;2;255;28;141m    .:cccccccccccccccccccccccccc:.    [39m[49m
+[38;2;255;28;141m  .;ccccccccccccc;[38;5;15m.:dddl:.[38;2;255;28;141m;ccccccc;.  [39m[49m
+[38;2;255;28;141m .:ccccccccccccc;[38;5;15mOWMKOOXMWd[38;2;255;28;141m;ccccccc:. [39m[49m
+[38;2;255;215;0m.:ccccccccccccc;[38;5;15mKMMc[38;2;255;215;0m;cc;[38;5;15mxMMc[38;2;255;215;0m;ccccccc:.[39m[49m
+[38;2;255;215;0m,cccccccccccccc;[38;5;15mMMM.[38;2;255;215;0m;cc;[38;5;15m;WW:[38;2;255;215;0m;cccccccc,[39m[49m
+[38;2;255;215;0m:cccccccccccccc;[38;5;15mMMM.[38;2;255;215;0m;cccccccccccccccc:[39m[49m
+[38;2;255;215;0m:ccccccc;[38;5;15moxOOOo[38;2;255;215;0m;[38;5;15mMMM0OOk.[38;2;255;215;0m;cccccccccccc:[39m[49m
+[38;2;255;215;0mcccccc;[38;5;15m0MMKxdd:[38;2;255;215;0m;[38;5;15mMMMkddc.[38;2;255;215;0m;cccccccccccc;[39m[49m
+[38;2;255;215;0mccccc;[38;5;15mXM0'[38;2;255;215;0m;cccc;[38;5;15mMMM.[38;2;255;215;0m;cccccccccccccccc'[39m[49m
+[38;2;255;215;0mccccc;[38;5;15mMMo[38;2;255;215;0m;ccccc;[38;5;15mMMW.[38;2;255;215;0m;ccccccccccccccc; [39m[49m
+[38;2;26;179;255mccccc;[38;5;15m0MNc.[38;2;26;179;255mccc[38;5;15m.xMMd[38;2;26;179;255m;ccccccccccccccc;  [39m[49m
+[38;2;26;179;255mcccccc;[38;5;15mdNMWXXXWM0:[38;2;26;179;255m;cccccccccccccc:,   [39m[49m
+[38;2;26;179;255mcccccccc;[38;5;15m.:odl:.[38;2;26;179;255m;cccccccccccccc:,.    [39m[49m
+[38;2;26;179;255m:cccccccccccccccccccccccccccc:'.      [39m[49m
+[38;2;26;179;255m.:cccccccccccccccccccccc:;,..         [39m[49m
+[38;2;26;179;255m  '::cccccccccccccc::;,.              [39m[49m[m[1G[18A[m[?7l[42C
+[42C[m[1m[39mkalidotchai[m@[1m[39mlumberjack[m
+[42C----------------------
+[42C[m[1m[34mOS[m: [mFedora Linux 43 (Workstation Edition) x86_64
+[42C[m[1m[34mHost[m: [mInspiron 3593
+[42C[m[1m[34mKernel[m: [mLinux 6.18.8-200.fc43.x86_64
+[42C[m[1m[34mUptime[m: [m1 day, 1 hour, 23 mins
+[42C[m[1m[34mPackages[m: [m2044 (rpm), 19 (flatpak)
+[42C[m[1m[34mShell[m: [mzsh 5.9
+[42C[m[1m[34mDE[m: [mGNOME 49.3
+[42C[m[1m[34mTheme[m: [mAdwaita [GTK2/3/4]
+[42C[m[1m[34mCPU[m: [mIntel(R) Core(TM) i5-1035G1 (8) @ 3.60 GHz
+[42C[m[1m[34mMemory[m: [m8.52 GiB / 15.38 GiB ([93m55%[m)
+[42C[m[1m[34mSwap[m: [m1.60 MiB / 30.91 GiB ([32m0%[m)
+[42C[m[1m[34mDisk (/)[m: [m14.92 GiB / 434.36 GiB ([32m3%[m) - ext4
+[42C[m[1m[34mDisk (/home)[m: [m220.92 GiB / 915.82 GiB ([32m24%[m) - ext4
+[42C[m[1m[34mLocal IP (gpd0)[m: [m10.114.0.95/32
+[42C
+[42C[m[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[42C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+[?7h
+[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mThu Feb 12, 11:27[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004hccd CSC60/Lab2/Kal    [?1l>[?2004l
+]133;C\]2;cd CSC60/Lab2]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git/CSC60/Lab2\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git/CSC60/Lab2]1;..it/CSC60/Lab2]7;file://lumberjack/home/kalidotchai/.git/CSC60/Lab2\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git/CSC60/Lab2[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mThu Feb 12, 11:28[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <( (git)-[main]-)>[0m[0m [K[?1h=[?2004hggcc -o lab2 lab2.c[?1l>[?2004l
+]133;C\]2;gcc -o lab2 lab2.c]1;gcc[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git/CSC60/Lab2\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git/CSC60/Lab2]1;..it/CSC60/Lab2]7;file://lumberjack/home/kalidotchai/.git/CSC60/Lab2\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git/CSC60/Lab2[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mThu Feb 12, 11:28[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <( (git)-[main]-)>[0m[0m [K[?1h=[?2004h../lab2[?1l>[?2004l
+]133;C\]2;./lab2]1;./lab2num2 is greater than num1.
+
+Lab 2.
+
+Hello World
+Hi, Kali.
+
+"The greatest crimes arise not from necessity, but from excess."
+ - Aristotle
+[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git/CSC60/Lab2\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git/CSC60/Lab2]1;..it/CSC60/Lab2]7;file://lumberjack/home/kalidotchai/.git/CSC60/Lab2\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git/CSC60/Lab2[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mThu Feb 12, 11:28[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <( (git)-[main]-)>[0m[0m [K[?1h=[?2004heexit[?1l>[?2004l
+]133;C\]2;exit]1;exit
+Script done on 2026-02-12 11:28:29-08:00 [COMMAND_EXIT_CODE="0"]
