@@ -41,28 +41,46 @@ Script started on 2026-02-17 18:25:02-08:00 [TERM="xterm-256color" TTY="/dev/pts
 [42C[m[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
 [42C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
 [?7h
-[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mTue Feb 17, 06:25[0m[0;34m[1m][0m[0m
-[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004hbbash[?1l>[?2004l
-]133;C\]2;bash]1;bash[?2004h]0;kalidotchai@lumberjack: ~/.git[01;32mkalidotchai@lumberjack[00m:[01;34m~/.git[00m$ PS1="LAB[K[Kab3$"
-[?2004l[?2004hLab3$cd csc[K[K[KCSC60
-[?2004l[?2004hLab3$mkf[Kdir Lab3
-[?2004lmkdir: cannot create directory ‘Lab3’: File exists
+[1m[7m%[27m[1m[0m                                                                                                                                                     
+ 
+]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\
+[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mTue Feb 17, 06:25[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004hbbash[?1l>[?2004l
+
+]133;C\
+]2;bash]1;bash[?2004h]0;kalidotchai@lumberjack: ~/.git[01;32mkalidotchai@lumberjack[00m:[01;34m~/.git[00m$ PS1="LAB[K[Kab3$"
+[?2004l
+[?2004hLab3$cd csc[K[K[KCSC60
+[?2004l
+[?2004hLab3$mkf[Kdir Lab3
+[?2004l
+mkdir: cannot create directory ‘Lab3’: File exists
 [?2004hLab3$cs[Kd  [KLab3
-[?2004l[?2004hLab3$pwd
-[?2004l/home/kalidotchai/.git/CSC60/Lab3
+[?2004l
+[?2004hLab3$pwd
+[?2004l
+/home/kalidotchai/.git/CSC60/Lab3
 [?2004hLab3$mkdir aaa
-[?2004l[?2004hLab3$cd aaa
-[?2004l[?2004hLab3$pwd
-[?2004l/home/kalidotchai/.git/CSC60/Lab3/aaa
+[?2004l
+[?2004hLab3$cd aaa
+[?2004l
+[?2004hLab3$pwd
+[?2004l
+/home/kalidotchai/.git/CSC60/Lab3/aaa
 [?2004hLab3$cd ..
-[?2004l[?2004hLab3$pwd
-[?2004l/home/kalidotchai/.git/CSC60/Lab3
+[?2004l
+[?2004hLab3$pwd
+[?2004l
+/home/kalidotchai/.git/CSC60/Lab3
 [?2004hLab3$cp /etc/group file1
-[?2004l[?2004hLab3$at file1
-[?2004lsyntax error. Last token seen: f
+[?2004l
+[?2004hLab3$at file1
+[?2004l
+syntax error. Last token seen: f
 Garbled time
 [?2004hLab3$at file1[1@c
-[?2004lroot:x:0:
+[?2004l
+root:x:0:
 sys:x:3:
 adm:x:4:
 tty:x:5:
@@ -141,7 +159,9 @@ plocate:x:971:
 gamemode:x:970:
 kalidotchai:x:1000:
 [?2004hLab3$less file1
-[?2004l[?1049h[22;0;0t[33;1H[?1h=root:x:0:[m
+[?2004l
+[?1049h[22;0;0t[33;1H[?1h=
+root:x:0:[m
 sys:x:3:[m
 adm:x:4:[m
 tty:x:5:[m
@@ -173,13 +193,29 @@ bin:x:1:[m
 daemon:x:2:[m
 dbus:x:81:[m
 tss:x:59:clevis[m
-[7mfile1[27m[K[K [KESCESC[KOO[KBB[Ksystemd-journal:x:190:[m
-:[K[K [KESCESC[KOO[KBB[Ksystemd-oom:x:999:[m
-:[K[K [KESCESC[KOO[KBB[Kpolkitd:x:114:[m
-:[K[K [KESCESC[KOO[KAA[K[HMadm:x:4:[m
-[33;1H[K:[K[K [KESCESC[KOO[KAA[K[HMsys:x:3:[m
-[33;1H[K:[K[K [KESCESC[KOO[KAA[K[HMroot:x:0:[m
-[33;1H[K:[K[Ksystemd-journal:x:190:[m
+[7mfile1[27m[K
+[K [KESCESC[KOO[KBB
+[Ksystemd-journal:x:190:[m
+:[K
+[K [KESCESC[KOO[KBB
+[Ksystemd-oom:x:999:[m
+:[K
+[K [KESCESC[KOO[KBB
+[Kpolkitd:x:114:[m
+:[K
+[K [KESCESC[KOO[KAA
+[K[HMadm:x:4:[m
+[33;1H
+[K:[K
+[K [KESCESC[KOO[KAA
+[K[HMsys:x:3:[m
+[33;1H
+[K:[K
+[K [KESCESC[KOO[KAA
+[K[HMroot:x:0:[m
+[33;1H
+[K:[K
+[Ksystemd-journal:x:190:[m
 systemd-oom:x:999:[m
 polkitd:x:114:[m
 systemd-coredump:x:998:[m
@@ -211,7 +247,8 @@ flatpak:x:982:[m
 geoclue:x:981:[m
 sssd:x:980:[m
 colord:x:979:[m
-:[K[Kgdm:x:42:[m
+:[K
+[Kgdm:x:42:[m
 rpc:x:32:[m
 dnsmasq:x:978:[m
 rpcuser:x:29:[m
@@ -225,7 +262,10 @@ power:x:972:[m
 plocate:x:971:[m
 gamemode:x:970:[m
 kalidotchai:x:1000:[m
-[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HMusbmuxd:x:113:[m
+[7m(END)[27m[K
+[K
+[K[7m(END)[27m[K
+[K[HMusbmuxd:x:113:[m
 [HMclevis:x:992:[m
 [HMunbound:x:993:[m
 [HMqat:x:994:[m
@@ -257,7 +297,9 @@ kalidotchai:x:1000:[m
 [HMtape:x:33:[m
 [HMutmp:x:22:[m
 [HMgames:x:20:[m
-[33;1H[K:[K[K[HMfloppy:x:19:[m
+[33;1H
+[K:[K
+[K[HMfloppy:x:19:[m
 [HMdialout:x:18:[m
 [HMman:x:15:[m
 [HMmail:x:12:[m
@@ -271,7 +313,12 @@ kalidotchai:x:1000:[m
 [HMadm:x:4:[m
 [HMsys:x:3:[m
 [HMroot:x:0:[m
-[33;1H[K:[K[K[K:[K[K/[Kss[Kyy[Kss[Ktt[Kee[Kmm[K[1;1H[Kroot:x:0:[m
+[33;1H
+[K:[K
+[K
+[K:[K
+[K/[Kss[Kyy[Kss[Ktt[Kee[Kmm
+[K[1;1H[Kroot:x:0:[m
 [2;1H[Ksys:x:3:[m
 [3;1H[Kadm:x:4:[m
 [4;1H[Ktty:x:5:[m
@@ -367,29 +414,36 @@ flatpak:x:982:[m
 geoclue:x:981:[m
 sssd:x:980:[m
 colord:x:979:[m
-:[K[K[?1l>[?1049l[23;0;0t[?2004hLab3$ls -l
-[?2004ltotal 200
+:[K
+[K[?1l>[?1049l[23;0;0t[?2004hLab3$ls -l
+[?2004l
+total 200
 drwxr-xr-x. 2 kalidotchai kalidotchai   4096 Feb 17 18:25 [0m[01;34maaa[0m
 -rw-r--r--. 1 kalidotchai kalidotchai   1107 Feb 17 18:26 file1
 -rw-r--r--. 1 kalidotchai kalidotchai   8192 Feb 17 18:27 KaliWilson_lab3.out
 -rw-rw-r--  1 kalidotchai kalidotchai 185660 Jan 30 09:37 Lab3-Paths_Loops.pdf
 [?2004hLab3$ls -l *
-[?2004l-rw-r--r--. 1 kalidotchai kalidotchai   1107 Feb 17 18:26 file1
+[?2004l
+-rw-r--r--. 1 kalidotchai kalidotchai   1107 Feb 17 18:26 file1
 -rw-r--r--. 1 kalidotchai kalidotchai   8192 Feb 17 18:27 KaliWilson_lab3.out
 -rw-rw-r--  1 kalidotchai kalidotchai 185660 Jan 30 09:37 Lab3-Paths_Loops.pdf
 
 aaa:
 total 0
 [?2004hLab3$file *
-[?2004laaa:                  directory
+[?2004l
+aaa:                  directory
 file1:                ASCII text
 KaliWilson_lab3.out:  Unicode text, UTF-8 text, with CRLF, CR, LF line terminators, with escape sequences, with overstriking
 Lab3-Paths_Loops.pdf: PDF document, version 1.3, 4 page(s)
 [?2004hLab3$cp file1 file2
-[?2004l[?2004hLab3$sc [K[K[Kwc file1
-[?2004l  78   78 1107 file1
+[?2004l
+[?2004hLab3$sc [K[K[Kwc file1
+[?2004l
+  78   78 1107 file1
 [?2004hLab3$wc *
-[?2004l      0       0       0 aaa
+[?2004l
+      0       0       0 aaa
 wc: aaa: Is a directory
      78      78    1107 file1
      78      78    1107 file2
@@ -397,63 +451,92 @@ wc: aaa: Is a directory
    1165    6619  185660 Lab3-Paths_Loops.pdf
    1714    7470  200162 total
 [?2004hLab3$grep system file 1[K[K1
-[?2004lsystemd-journal:x:190:
+[?2004l
+systemd-journal:x:190:
 systemd-oom:x:999:
 systemd-coredump:x:998:
 systemd-timesync:x:997:
 systemd-network:x:192:
 systemd-resolve:x:193:
 [?2004hLab3$mkdir bbb
-[?2004l[?2004hLab3$cd bbb
-[?2004l[?2004hLab3$pwd
-[?2004l/home/kalidotchai/.git/CSC60/Lab3/bbb
+[?2004l
+[?2004hLab3$cd bbb
+[?2004l
+[?2004hLab3$pwd
+[?2004l
+/home/kalidotchai/.git/CSC60/Lab3/bbb
 [?2004hLab3$cp ../ile1[K[K[K[Kfile1
-[?2004lcp: missing destination file operand after '../file1'
+[?2004l
+cp: missing destination file operand after '../file1'
 Try 'cp --help' for more information.
 [?2004hLab3$cp ../file1 .
-[?2004l[?2004hLab3$ls
-[?2004lfile1
-[?2004hLab3$mv file1 file3
-[?2004l[?2004hLab3$cho $?
-[?2004lbash: cho: command not found
-[?2004hLab3$cho $?[1@e
-[?2004l127
+[?2004l
 [?2004hLab3$ls
-[?2004lfile3
+[?2004l
+file1
+[?2004hLab3$mv file1 file3
+[?2004l
+[?2004hLab3$cho $?
+[?2004l
+bash: cho: command not found
+[?2004hLab3$cho $?[1@e
+[?2004l
+127
+[?2004hLab3$ls
+[?2004l
+file3
 [?2004hLab3$cmp ../file1 /[Kfile3
-[?2004l[?2004hLab3$cmp ../file1 file3[C[C[C[C[Cls[Kecho $?
-[?2004l0
+[?2004l
+[?2004hLab3$cmp ../file1 file3
+[C[C[C[C[Cls[Kecho $?
+[?2004l
+0
 [?2004hLab3$de[K[Ksed -2[Ke, '1,2d' file3 > file4
-[?2004lsed: -e expression #1, char 1: unknown command: `,'
+[?2004l
+sed: -e expression #1, char 1: unknown command: `,'
 [?2004hLab3$sed -e, '1,2d' file3 > file4[1P
-[?2004l[?2004hLab3$ls -l
-[?2004ltotal 8
+[?2004l
+[?2004hLab3$ls -l
+[?2004l
+total 8
 -rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
 -rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
 [?2004hLab3$cmp file3 file4
-[?2004lfile3 file4 differ: byte 1, line 1
+[?2004l
+file3 file4 differ: byte 1, line 1
 [?2004hLab3$echo $?
-[?2004l1
+[?2004l
+1
 [?2004hLab3$f[Kdiff ../file1 file3
-[?2004l[?2004hLab3$diff ../file1 file3[C[C[C[C[C[12Pecho $?
-[?2004l0
+[?2004l
+[?2004hLab3$diff ../file1 file3
+[C[C[C[C[C[12Pecho $?
+[?2004l
+0
 [?2004hLab3$f[Kdiff file3 file4
-[?2004l1,2d0
+[?2004l
+1,2d0
 < root:x:0:
 < sys:x:3:
-[?2004hLab3$diff file3 file4[C[C[C[C[C[9Pecho $?
-[?2004l1
+[?2004hLab3$diff file3 file4
+[C[C[C[C[C[9Pecho $?
+[?2004l
+1
 [?2004hLab3$rm -i file3 file4
-[?2004lrm: remove regular file 'file3'? 
+[?2004l
+rm: remove regular file 'file3'? 
 rm: remove regular file 'file4'? 
 [?2004hLab3$s -l
-[?2004lbash: s: command not found
+[?2004l
+bash: s: command not found
 [?2004hLab3$ls -l
-[?2004ltotal 8
+[?2004l
+total 8
 -rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
 -rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
 [?2004hLab3$history 20
-[?2004l   75  ls
+[?2004l
+   75  ls
    76  mv file1 file3
    77  cho $?
    78  echo $?
@@ -474,7 +557,8 @@ rm: remove regular file 'file4'?
    93  ls -l
    94  history 20
 [?2004hLab3$!!
-[?2004lhistory 20
+[?2004l
+history 20
    75  ls
    76  mv file1 file3
    77  cho $?
@@ -496,27 +580,39 @@ rm: remove regular file 'file4'?
    93  ls -l
    94  history 20
 [?2004hLab3$!84
-[?2004lls -l
+[?2004l
+ls -l
 total 8
 -rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
 -rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
 [?2004hLab3$!-5
-[?2004lrm -i file3 file4
+[?2004l
+rm -i file3 file4
 rm: remove regular file 'file3'? 
 rm: remove regular file 'file4'? 
 [?2004hLab3$!-2
-[?2004lls -l
+[?2004l
+ls -l
 total 8
 -rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
 -rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
 [?2004hLab3$set -o vi
-[?2004l[?2004hLab3$set -o vi[C[C[C[C[C
-[?2004l[?2004hLab3$set -o vi[C[C[C[C[C[4Pls -l
-[?2004ltotal 8
+[?2004l
+[?2004hLab3$set -o vi
+[C[C[C[C[C
+[?2004l
+[?2004hLab3$set -o vi
+[C[C[C[C[C[4Pls -l
+[?2004l
+total 8
 -rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
 -rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
-[?2004hLab3$ls -lset -o vi[C[C[C[C[C[4Pls -lrm -i file3 file4[C[C[C[C[Cls -l[Khistory 20[C[C[C[C[C
-[?2004l   81  echo $?
+[?2004hLab3$ls -lset -o vi
+[C[C[C[C[C[4Pls -lrm -i file3 file4
+[C[C[C[C[Cls -l[Khistory 20
+[C[C[C[C[C
+[?2004l
+   81  echo $?
    82  sed -e, '1,2d' file3 > file4
    83  sed -e '1,2d' file3 > file4
    84  ls -l
@@ -540,18 +636,32 @@ total 8
 
 Lab3$
 
-Lab3$history 20[C[C[C[C[C[5Pls -lset -o vi[C[C[C[C[C[4Pls -lrm -i file3 file4[C[C[C[C[Cls -l[Krm -i file3 file4[C[C[C[C[Cls -l[Kset -o vi[C[C[C[C[C[4Pls -lhistory 20[C[C[C[C[C[K^C[?2004l[?2004h[?2004l
+Lab3$history 20
+[C[C[C[C[C[5Pls -lset -o vi
+[C[C[C[C[C[4Pls -lrm -i file3 file4
+[C[C[C[C[Cls -l[Krm -i file3 file4
+[C[C[C[C[Cls -l[Kset -o vi
+[C[C[C[C[C[4Pls -lhistory 20
+[C[C[C[C[C[K^C[?2004l
+[?2004h[?2004l
+
 [?2004hLab3$ls
-[?2004lfile3  file4
+[?2004l
+file3  file4
 [?2004hLab3$
-[?2004l[?2004hLab3$/ls
-[?2004lbash: /ls: No such file or directory
+[?2004l
+[?2004hLab3$/ls
+[?2004l
+bash: /ls: No such file or directory
 [?2004hLab3$/[K/[K/ls
-[?2004lbash: /ls: No such file or directory
+[?2004l
+bash: /ls: No such file or directory
 [?2004hLab3$/ls
-[?2004lbash: /ls: No such file or directory
+[?2004l
+bash: /ls: No such file or directory
 [?2004hLab3$history 20
-[?2004l   84  ls -l
+[?2004l
+   84  ls -l
    85  cmp file3 file4
    86  echo $?
    87  diff ../file1 file3
@@ -571,17 +681,249 @@ Lab3$history 20[C[C[C[C[C[5Pls -lset -o vi[C[C[C[C[C[4P
   101  ls
   102  /ls
   103  history 20
-[?2004hLab3$/ls[1P[1@/history 20[C[C[C[C[C/ls[K
-[?2004lbash: /ls: No such file or directory
+[?2004hLab3$/ls[1P[1@/history 20
+[C[C[C[C[C/ls[K
+[?2004l
+bash: /ls: No such file or directory
 [?2004hLab3$/[K/ls
-[?2004lbash: /ls: No such file or directory
-[?2004hLab3$/lshistory 20[C[C[C[C[C/ls[K[1P[C[Chistory 20[C[C[C[C[C[5Pls -lset -o vi[C[C[C[C[C[4Pls -lA[K[Cp
-[?2004ltotal 8
+[?2004l
+bash: /ls: No such file or directory
+[?2004hLab3$/lshistory 20
+[C[C[C[C[C/ls[K[1P[C[Chistory 20
+[C[C[C[C[C[5Pls -lset -o vi
+[C[C[C[C[C[4Pls -lA[K[Cp
+[?2004l
+total 8
 -rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
 -rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
 [?2004hLab3$exit
-[?2004lexit
-[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mTue Feb 17, 06:36[0m[0;34m[1m][0m[0m
-[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004heexit[?1l>[?2004l
-]133;C\]2;exit]1;exit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                                                                                                     
+ 
+]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\
+[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mTue Feb 17, 06:36[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004heexit[?1l>[?2004l
+
+]133;C\
+]2;exit]1;exit
 Script done on 2026-02-17 18:36:21-08:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2026-02-17 21:55:38-08:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="146" LINES="20"]
+
+[?25l[?7l[38;2;255;28;141m                                           [39m[49m
+[38;2;255;28;141m                             ....          [39m[49m
+[38;2;255;28;141m              .',:clooo:  .:looooo:.       [39m[49m
+[38;2;255;28;141m           .;looooooooc  .oooooooooo'      [39m[49m
+[38;2;255;28;141m        .;looooool:,''.  :ooooooooooc      [39m[49m
+[38;2;255;28;141m       ;looool;.         'oooooooooo,      [39m[49m
+[38;2;255;28;141m      ;clool'             .cooooooc.  ,,   [39m[49m
+[38;2;255;28;141m         ...                ......  .:oo,  [39m[49m
+[38;2;255;215;0m  .;clol:,.                        .loooo' [39m[49m
+[38;2;255;215;0m :ooooooooo,                        'ooool [39m[49m
+[38;2;255;215;0m'ooooooooooo.                        loooo.[39m[49m
+[38;2;255;215;0m'ooooooooool                         coooo.[39m[49m
+[38;2;255;215;0m ,loooooooc.                        .loooo.[39m[49m
+[38;2;255;215;0m   .,;;;'.                          ;ooooc [39m[49m
+[38;2;255;215;0m       ...                         ,ooool. [39m[49m
+[38;2;26;179;255m    .cooooc.              ..',,'.  .cooo.  [39m[49m
+[38;2;26;179;255m      ;ooooo:.           ;oooooooc.  :l.   [39m[49m
+[38;2;26;179;255m       .coooooc,..      coooooooooo.       [39m[49m
+[38;2;26;179;255m         .:ooooooolc:. .ooooooooooo'       [39m[49m
+[38;2;26;179;255m           .':loooooo;  ,oooooooooc        [39m[49m
+[38;2;26;179;255m               ..';::c'  .;loooo:'         [39m[49m
+[38;2;26;179;255m                             .             [39m[49m
+[38;2;26;179;255m                                           [39m[49m[0m
+[23A[9999999D[46C[0m[1m[31m[1mkalidotchai[0m@[31m[1mair-fryer[0m 
+[46C[0m---------------------[0m 
+[46C[0m[31m[1mOS[0m[0m:[0m Ubuntu trixie/sid (noble) x86_64[0m 
+[46C[0m[31m[1mKernel[0m[0m:[0m 6.17.0-14-generic[0m 
+[46C[0m[31m[1mUptime[0m[0m:[0m 2 days, 11 hours, 21 mins[0m 
+[46C[0m[31m[1mPackages[0m[0m:[0m 2148 (dpkg), 26 (snap)[0m 
+[46C[0m[31m[1mShell[0m[0m:[0m bash 5.2.21[0m 
+[46C[0m[31m[1mResolution[0m[0m:[0m 1920x1080 @ 60.00Hz, 1920x1080 @ 60.00Hz[0m 
+[46C[0m[31m[1mDE[0m[0m:[0m GNOME 46.0 (x11)[0m 
+[46C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[46C[0m[31m[1mWM Theme[0m[0m:[0m Adwaita[0m 
+[46C[0m[31m[1mTheme[0m[0m:[0m Yaru-dark [GTK2/3][0m 
+[46C[0m[31m[1mIcons[0m[0m:[0m Yaru [GTK2/3][0m 
+[46C[0m[31m[1mCursor[0m[0m:[0m Adwaita [GTK2/3][0m 
+[46C[0m[31m[1mTerminal[0m[0m:[0m vscode[0m 
+[46C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 5600X (12) @ 4.8GHz[0m 
+[46C[0m[31m[1mGPU[0m[0m:[0m NVIDIA GeForce GTX 1660 SUPER[0m 
+[46C[0m[31m[1mMemory[0m[0m:[0m 18.56 GiB / 62.72 GiB (29%)[0m 
+[46C[0m[31m[1mNetwork[0m[0m:[0m Wifi[0m 
+[46C[0m[31m[1mBIOS[0m[0m:[0m American Megatrends Inc. 5.17 (08/03/2021)[0m 
+
+[46C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [39;49m
+[46C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [39;49m
+
+[?25h[?7h[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab3[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab3[00m$ exit[Kexit[2P13./lab3gcc -o lab3 lab3.c
+[?2004l[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab3[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab3[00m$ gcc -o lab3 lab3.cexit[K[2P13./lab3
+[?2004l0x1b
+For 1
+For 2
+For 3
+For 4
+For 5
+For 6
+For 7
+For 8
+For 9
+For 10
+For 11
+For 12
+For 13
+For 14
+For 15
+For 16
+For 17
+For 18
+For 19
+For 20
+For 21
+For 22
+For 23
+For 24
+For 25
+For 26
+For 27
+While 1
+While 2
+While 3
+While 4
+While 5
+While 6
+While 7
+While 8
+While 9
+While 10
+While 11
+While 12
+While 13
+While 14
+While 15
+While 16
+While 17
+While 18
+While 19
+While 20
+While 21
+While 22
+While 23
+While 24
+While 25
+While 26
+While 27
+Do-while 1
+Do-while 2
+Do-while 3
+Do-while 4
+Do-while 5
+Do-while 6
+Do-while 7
+Do-while 8
+Do-while 9
+Do-while 10
+Do-while 11
+Do-while 12
+Do-while 13
+Do-while 14
+Do-while 15
+Do-while 16
+Do-while 17
+Do-while 18
+Do-while 19
+Do-while 20
+Do-while 21
+Do-while 22
+Do-while 23
+Do-while 24
+Do-while 25
+Do-while 26
+Do-while 27
+[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab3[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab3[00m$ ./lab3
+[?2004l13
+For 1
+For 2
+For 3
+For 4
+For 5
+For 6
+For 7
+For 8
+For 9
+For 10
+For 11
+For 12
+For 13
+While 1
+While 2
+While 3
+While 4
+While 5
+While 6
+While 7
+While 8
+While 9
+While 10
+While 11
+While 12
+While 13
+Do-while 1
+Do-while 2
+Do-while 3
+Do-while 4
+Do-while 5
+Do-while 6
+Do-while 7
+Do-while 8
+Do-while 9
+Do-while 10
+Do-while 11
+Do-while 12
+Do-while 13
+[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab3[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab3[00m$ ./lab3
+[?2004l015
+For 1
+For 2
+For 3
+For 4
+For 5
+For 6
+For 7
+For 8
+For 9
+For 10
+For 11
+For 12
+For 13
+While 1
+While 2
+While 3
+While 4
+While 5
+While 6
+While 7
+While 8
+While 9
+While 10
+While 11
+While 12
+While 13
+Do-while 1
+Do-while 2
+Do-while 3
+Do-while 4
+Do-while 5
+Do-while 6
+Do-while 7
+Do-while 8
+Do-while 9
+Do-while 10
+Do-while 11
+Do-while 12
+Do-while 13
+[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab3[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab3[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-17 21:56:30-08:00 [COMMAND_EXIT_CODE="0"]
