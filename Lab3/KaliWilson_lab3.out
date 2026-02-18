@@ -1,0 +1,587 @@
+Script started on 2026-02-17 18:25:02-08:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="150" LINES="33"]
+
+ Hey, Kali.
+
+]11;?[c[1m[38;2;255;28;141m             .',;::::;,'.             [39m[49m
+[38;2;255;28;141m         .';:cccccccccccc:;,.         [39m[49m
+[38;2;255;28;141m      .;cccccccccccccccccccccc;.      [39m[49m
+[38;2;255;28;141m    .:cccccccccccccccccccccccccc:.    [39m[49m
+[38;2;255;28;141m  .;ccccccccccccc;[38;5;15m.:dddl:.[38;2;255;28;141m;ccccccc;.  [39m[49m
+[38;2;255;28;141m .:ccccccccccccc;[38;5;15mOWMKOOXMWd[38;2;255;28;141m;ccccccc:. [39m[49m
+[38;2;255;215;0m.:ccccccccccccc;[38;5;15mKMMc[38;2;255;215;0m;cc;[38;5;15mxMMc[38;2;255;215;0m;ccccccc:.[39m[49m
+[38;2;255;215;0m,cccccccccccccc;[38;5;15mMMM.[38;2;255;215;0m;cc;[38;5;15m;WW:[38;2;255;215;0m;cccccccc,[39m[49m
+[38;2;255;215;0m:cccccccccccccc;[38;5;15mMMM.[38;2;255;215;0m;cccccccccccccccc:[39m[49m
+[38;2;255;215;0m:ccccccc;[38;5;15moxOOOo[38;2;255;215;0m;[38;5;15mMMM0OOk.[38;2;255;215;0m;cccccccccccc:[39m[49m
+[38;2;255;215;0mcccccc;[38;5;15m0MMKxdd:[38;2;255;215;0m;[38;5;15mMMMkddc.[38;2;255;215;0m;cccccccccccc;[39m[49m
+[38;2;255;215;0mccccc;[38;5;15mXM0'[38;2;255;215;0m;cccc;[38;5;15mMMM.[38;2;255;215;0m;cccccccccccccccc'[39m[49m
+[38;2;255;215;0mccccc;[38;5;15mMMo[38;2;255;215;0m;ccccc;[38;5;15mMMW.[38;2;255;215;0m;ccccccccccccccc; [39m[49m
+[38;2;26;179;255mccccc;[38;5;15m0MNc.[38;2;26;179;255mccc[38;5;15m.xMMd[38;2;26;179;255m;ccccccccccccccc;  [39m[49m
+[38;2;26;179;255mcccccc;[38;5;15mdNMWXXXWM0:[38;2;26;179;255m;cccccccccccccc:,   [39m[49m
+[38;2;26;179;255mcccccccc;[38;5;15m.:odl:.[38;2;26;179;255m;cccccccccccccc:,.    [39m[49m
+[38;2;26;179;255m:cccccccccccccccccccccccccccc:'.      [39m[49m
+[38;2;26;179;255m.:cccccccccccccccccccccc:;,..         [39m[49m
+[38;2;26;179;255m  '::cccccccccccccc::;,.              [39m[49m[m[1G[18A[m[?7l[42C
+[42C[m[1m[39mkalidotchai[m@[1m[39mlumberjack[m
+[42C----------------------
+[42C[m[1m[34mOS[m: [mFedora Linux 43 (Workstation Edition) x86_64
+[42C[m[1m[34mHost[m: [mInspiron 3593
+[42C[m[1m[34mKernel[m: [mLinux 6.18.8-200.fc43.x86_64
+[42C[m[1m[34mUptime[m: [m6 days, 8 hours, 20 mins
+[42C[m[1m[34mPackages[m: [m2054 (rpm), 26 (flatpak)
+[42C[m[1m[34mShell[m: [mzsh 5.9
+[42C[m[1m[34mDE[m: [mGNOME 49.3
+[42C[m[1m[34mTheme[m: [mAdwaita [GTK2/3/4]
+[42C[m[1m[34mCPU[m: [mIntel(R) Core(TM) i5-1035G1 (8) @ 3.60 GHz
+[42C[m[1m[34mMemory[m: [m7.90 GiB / 15.38 GiB ([93m51%[m)
+[42C[m[1m[34mSwap[m: [m2.57 GiB / 30.91 GiB ([32m8%[m)
+[42C[m[1m[34mDisk (/)[m: [m21.73 GiB / 434.36 GiB ([32m5%[m) - ext4
+[42C[m[1m[34mDisk (/home)[m: [m212.18 GiB / 915.82 GiB ([32m23%[m) - ext4
+[42C[m[1m[34mLocal IP (wlp2s0)[m: [m192.168.12.38/24
+[42C
+[42C[m[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[42C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+[?7h
+[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mTue Feb 17, 06:25[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004hbbash[?1l>[?2004l
+]133;C\]2;bash]1;bash[?2004h]0;kalidotchai@lumberjack: ~/.git[01;32mkalidotchai@lumberjack[00m:[01;34m~/.git[00m$ PS1="LAB[K[Kab3$"
+[?2004l[?2004hLab3$cd csc[K[K[KCSC60
+[?2004l[?2004hLab3$mkf[Kdir Lab3
+[?2004lmkdir: cannot create directory ‘Lab3’: File exists
+[?2004hLab3$cs[Kd  [KLab3
+[?2004l[?2004hLab3$pwd
+[?2004l/home/kalidotchai/.git/CSC60/Lab3
+[?2004hLab3$mkdir aaa
+[?2004l[?2004hLab3$cd aaa
+[?2004l[?2004hLab3$pwd
+[?2004l/home/kalidotchai/.git/CSC60/Lab3/aaa
+[?2004hLab3$cd ..
+[?2004l[?2004hLab3$pwd
+[?2004l/home/kalidotchai/.git/CSC60/Lab3
+[?2004hLab3$cp /etc/group file1
+[?2004l[?2004hLab3$at file1
+[?2004lsyntax error. Last token seen: f
+Garbled time
+[?2004hLab3$at file1[1@c
+[?2004lroot:x:0:
+sys:x:3:
+adm:x:4:
+tty:x:5:
+disk:x:6:
+lp:x:7:
+mem:x:8:
+kmem:x:9:
+wheel:x:10:kalidotchai
+cdrom:x:11:
+mail:x:12:
+man:x:15:
+dialout:x:18:
+floppy:x:19:
+games:x:20:
+utmp:x:22:
+tape:x:33:
+kvm:x:36:qemu
+video:x:39:
+ftp:x:50:
+lock:x:54:
+audio:x:63:
+users:x:100:
+clock:x:103:
+input:x:104:
+render:x:105:
+sgx:x:106:
+nobody:x:65534:
+bin:x:1:
+daemon:x:2:
+dbus:x:81:
+tss:x:59:clevis
+systemd-journal:x:190:
+systemd-oom:x:999:
+polkitd:x:114:
+systemd-coredump:x:998:
+systemd-timesync:x:997:
+chrony:x:996:
+systemd-network:x:192:
+systemd-resolve:x:193:
+avahi:x:70:
+printadmin:x:995:
+qat:x:994:
+unbound:x:993:
+clevis:x:992:
+usbmuxd:x:113:
+utempter:x:35:
+gluster:x:991:
+dip:x:40:
+qemu:x:107:
+apache:x:48:
+openvpn:x:990:
+nm-openvpn:x:989:
+libvirt:x:988:
+abrt:x:173:
+wsdd:x:987:
+nm-openconnect:x:986:
+rtkit:x:985:
+pipewire:x:984:
+brlapi:x:983:
+flatpak:x:982:
+geoclue:x:981:
+sssd:x:980:
+colord:x:979:
+gdm:x:42:
+rpc:x:32:
+dnsmasq:x:978:
+rpcuser:x:29:
+gnome-initial-setup:x:977:
+gnome-remote-desktop:x:976:
+vboxsf:x:975:
+sshd:x:74:
+passim:x:973:
+tcpdump:x:72:
+power:x:972:
+plocate:x:971:
+gamemode:x:970:
+kalidotchai:x:1000:
+[?2004hLab3$less file1
+[?2004l[?1049h[22;0;0t[33;1H[?1h=root:x:0:[m
+sys:x:3:[m
+adm:x:4:[m
+tty:x:5:[m
+disk:x:6:[m
+lp:x:7:[m
+mem:x:8:[m
+kmem:x:9:[m
+wheel:x:10:kalidotchai[m
+cdrom:x:11:[m
+mail:x:12:[m
+man:x:15:[m
+dialout:x:18:[m
+floppy:x:19:[m
+games:x:20:[m
+utmp:x:22:[m
+tape:x:33:[m
+kvm:x:36:qemu[m
+video:x:39:[m
+ftp:x:50:[m
+lock:x:54:[m
+audio:x:63:[m
+users:x:100:[m
+clock:x:103:[m
+input:x:104:[m
+render:x:105:[m
+sgx:x:106:[m
+nobody:x:65534:[m
+bin:x:1:[m
+daemon:x:2:[m
+dbus:x:81:[m
+tss:x:59:clevis[m
+[7mfile1[27m[K[K [KESCESC[KOO[KBB[Ksystemd-journal:x:190:[m
+:[K[K [KESCESC[KOO[KBB[Ksystemd-oom:x:999:[m
+:[K[K [KESCESC[KOO[KBB[Kpolkitd:x:114:[m
+:[K[K [KESCESC[KOO[KAA[K[HMadm:x:4:[m
+[33;1H[K:[K[K [KESCESC[KOO[KAA[K[HMsys:x:3:[m
+[33;1H[K:[K[K [KESCESC[KOO[KAA[K[HMroot:x:0:[m
+[33;1H[K:[K[Ksystemd-journal:x:190:[m
+systemd-oom:x:999:[m
+polkitd:x:114:[m
+systemd-coredump:x:998:[m
+systemd-timesync:x:997:[m
+chrony:x:996:[m
+systemd-network:x:192:[m
+systemd-resolve:x:193:[m
+avahi:x:70:[m
+printadmin:x:995:[m
+qat:x:994:[m
+unbound:x:993:[m
+clevis:x:992:[m
+usbmuxd:x:113:[m
+utempter:x:35:[m
+gluster:x:991:[m
+dip:x:40:[m
+qemu:x:107:[m
+apache:x:48:[m
+openvpn:x:990:[m
+nm-openvpn:x:989:[m
+libvirt:x:988:[m
+abrt:x:173:[m
+wsdd:x:987:[m
+nm-openconnect:x:986:[m
+rtkit:x:985:[m
+pipewire:x:984:[m
+brlapi:x:983:[m
+flatpak:x:982:[m
+geoclue:x:981:[m
+sssd:x:980:[m
+colord:x:979:[m
+:[K[Kgdm:x:42:[m
+rpc:x:32:[m
+dnsmasq:x:978:[m
+rpcuser:x:29:[m
+gnome-initial-setup:x:977:[m
+gnome-remote-desktop:x:976:[m
+vboxsf:x:975:[m
+sshd:x:74:[m
+passim:x:973:[m
+tcpdump:x:72:[m
+power:x:972:[m
+plocate:x:971:[m
+gamemode:x:970:[m
+kalidotchai:x:1000:[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HMusbmuxd:x:113:[m
+[HMclevis:x:992:[m
+[HMunbound:x:993:[m
+[HMqat:x:994:[m
+[HMprintadmin:x:995:[m
+[HMavahi:x:70:[m
+[HMsystemd-resolve:x:193:[m
+[HMsystemd-network:x:192:[m
+[HMchrony:x:996:[m
+[HMsystemd-timesync:x:997:[m
+[HMsystemd-coredump:x:998:[m
+[HMpolkitd:x:114:[m
+[HMsystemd-oom:x:999:[m
+[HMsystemd-journal:x:190:[m
+[HMtss:x:59:clevis[m
+[HMdbus:x:81:[m
+[HMdaemon:x:2:[m
+[HMbin:x:1:[m
+[HMnobody:x:65534:[m
+[HMsgx:x:106:[m
+[HMrender:x:105:[m
+[HMinput:x:104:[m
+[HMclock:x:103:[m
+[HMusers:x:100:[m
+[HMaudio:x:63:[m
+[HMlock:x:54:[m
+[HMftp:x:50:[m
+[HMvideo:x:39:[m
+[HMkvm:x:36:qemu[m
+[HMtape:x:33:[m
+[HMutmp:x:22:[m
+[HMgames:x:20:[m
+[33;1H[K:[K[K[HMfloppy:x:19:[m
+[HMdialout:x:18:[m
+[HMman:x:15:[m
+[HMmail:x:12:[m
+[HMcdrom:x:11:[m
+[HMwheel:x:10:kalidotchai[m
+[HMkmem:x:9:[m
+[HMmem:x:8:[m
+[HMlp:x:7:[m
+[HMdisk:x:6:[m
+[HMtty:x:5:[m
+[HMadm:x:4:[m
+[HMsys:x:3:[m
+[HMroot:x:0:[m
+[33;1H[K:[K[K[K:[K[K/[Kss[Kyy[Kss[Ktt[Kee[Kmm[K[1;1H[Kroot:x:0:[m
+[2;1H[Ksys:x:3:[m
+[3;1H[Kadm:x:4:[m
+[4;1H[Ktty:x:5:[m
+[5;1H[Kdisk:x:6:[m
+[6;1H[Klp:x:7:[m
+[7;1H[Kmem:x:8:[m
+[8;1H[Kkmem:x:9:[m
+[9;1H[Kwheel:x:10:kalidotchai[m
+[10;1H[Kcdrom:x:11:[m
+[11;1H[Kmail:x:12:[m
+[12;1H[Kman:x:15:[m
+[13;1H[Kdialout:x:18:[m
+[14;1H[Kfloppy:x:19:[m
+[15;1H[Kgames:x:20:[m
+[16;1H[Kutmp:x:22:[m
+[17;1H[Ktape:x:33:[m
+[18;1H[Kkvm:x:36:qemu[m
+[19;1H[Kvideo:x:39:[m
+[20;1H[Kftp:x:50:[m
+[21;1H[Klock:x:54:[m
+[22;1H[Kaudio:x:63:[m
+[23;1H[Kusers:x:100:[m
+[24;1H[Kclock:x:103:[m
+[25;1H[Kinput:x:104:[m
+[26;1H[Krender:x:105:[m
+[27;1H[Ksgx:x:106:[m
+[28;1H[Knobody:x:65534:[m
+[29;1H[Kbin:x:1:[m
+[30;1H[Kdaemon:x:2:[m
+[31;1H[Kdbus:x:81:[m
+[32;1H[Ktss:x:59:clevis[m
+[33;1H[1;1H[Kroot:x:0:[m
+[2;1H[Ksys:x:3:[m
+[3;1H[Kadm:x:4:[m
+[4;1H[Ktty:x:5:[m
+[5;1H[Kdisk:x:6:[m
+[6;1H[Klp:x:7:[m
+[7;1H[Kmem:x:8:[m
+[8;1H[Kkmem:x:9:[m
+[9;1H[Kwheel:x:10:kalidotchai[m
+[10;1H[Kcdrom:x:11:[m
+[11;1H[Kmail:x:12:[m
+[12;1H[Kman:x:15:[m
+[13;1H[Kdialout:x:18:[m
+[14;1H[Kfloppy:x:19:[m
+[15;1H[Kgames:x:20:[m
+[16;1H[Kutmp:x:22:[m
+[17;1H[Ktape:x:33:[m
+[18;1H[Kkvm:x:36:qemu[m
+[19;1H[Kvideo:x:39:[m
+[20;1H[Kftp:x:50:[m
+[21;1H[Klock:x:54:[m
+[22;1H[Kaudio:x:63:[m
+[23;1H[Kusers:x:100:[m
+[24;1H[Kclock:x:103:[m
+[25;1H[Kinput:x:104:[m
+[26;1H[Krender:x:105:[m
+[27;1H[Ksgx:x:106:[m
+[28;1H[Knobody:x:65534:[m
+[29;1H[Kbin:x:1:[m
+[30;1H[Kdaemon:x:2:[m
+[31;1H[Kdbus:x:81:[m
+[32;1H[Ktss:x:59:clevis[m
+[33;1H[7msystem[27md-journal:x:190:[m
+[7msystem[27md-oom:x:999:[m
+polkitd:x:114:[m
+[7msystem[27md-coredump:x:998:[m
+[7msystem[27md-timesync:x:997:[m
+chrony:x:996:[m
+[7msystem[27md-network:x:192:[m
+[7msystem[27md-resolve:x:193:[m
+avahi:x:70:[m
+printadmin:x:995:[m
+qat:x:994:[m
+unbound:x:993:[m
+clevis:x:992:[m
+usbmuxd:x:113:[m
+utempter:x:35:[m
+gluster:x:991:[m
+dip:x:40:[m
+qemu:x:107:[m
+apache:x:48:[m
+openvpn:x:990:[m
+nm-openvpn:x:989:[m
+libvirt:x:988:[m
+abrt:x:173:[m
+wsdd:x:987:[m
+nm-openconnect:x:986:[m
+rtkit:x:985:[m
+pipewire:x:984:[m
+brlapi:x:983:[m
+flatpak:x:982:[m
+geoclue:x:981:[m
+sssd:x:980:[m
+colord:x:979:[m
+:[K[K[?1l>[?1049l[23;0;0t[?2004hLab3$ls -l
+[?2004ltotal 200
+drwxr-xr-x. 2 kalidotchai kalidotchai   4096 Feb 17 18:25 [0m[01;34maaa[0m
+-rw-r--r--. 1 kalidotchai kalidotchai   1107 Feb 17 18:26 file1
+-rw-r--r--. 1 kalidotchai kalidotchai   8192 Feb 17 18:27 KaliWilson_lab3.out
+-rw-rw-r--  1 kalidotchai kalidotchai 185660 Jan 30 09:37 Lab3-Paths_Loops.pdf
+[?2004hLab3$ls -l *
+[?2004l-rw-r--r--. 1 kalidotchai kalidotchai   1107 Feb 17 18:26 file1
+-rw-r--r--. 1 kalidotchai kalidotchai   8192 Feb 17 18:27 KaliWilson_lab3.out
+-rw-rw-r--  1 kalidotchai kalidotchai 185660 Jan 30 09:37 Lab3-Paths_Loops.pdf
+
+aaa:
+total 0
+[?2004hLab3$file *
+[?2004laaa:                  directory
+file1:                ASCII text
+KaliWilson_lab3.out:  Unicode text, UTF-8 text, with CRLF, CR, LF line terminators, with escape sequences, with overstriking
+Lab3-Paths_Loops.pdf: PDF document, version 1.3, 4 page(s)
+[?2004hLab3$cp file1 file2
+[?2004l[?2004hLab3$sc [K[K[Kwc file1
+[?2004l  78   78 1107 file1
+[?2004hLab3$wc *
+[?2004l      0       0       0 aaa
+wc: aaa: Is a directory
+     78      78    1107 file1
+     78      78    1107 file2
+    393     695   12288 KaliWilson_lab3.out
+   1165    6619  185660 Lab3-Paths_Loops.pdf
+   1714    7470  200162 total
+[?2004hLab3$grep system file 1[K[K1
+[?2004lsystemd-journal:x:190:
+systemd-oom:x:999:
+systemd-coredump:x:998:
+systemd-timesync:x:997:
+systemd-network:x:192:
+systemd-resolve:x:193:
+[?2004hLab3$mkdir bbb
+[?2004l[?2004hLab3$cd bbb
+[?2004l[?2004hLab3$pwd
+[?2004l/home/kalidotchai/.git/CSC60/Lab3/bbb
+[?2004hLab3$cp ../ile1[K[K[K[Kfile1
+[?2004lcp: missing destination file operand after '../file1'
+Try 'cp --help' for more information.
+[?2004hLab3$cp ../file1 .
+[?2004l[?2004hLab3$ls
+[?2004lfile1
+[?2004hLab3$mv file1 file3
+[?2004l[?2004hLab3$cho $?
+[?2004lbash: cho: command not found
+[?2004hLab3$cho $?[1@e
+[?2004l127
+[?2004hLab3$ls
+[?2004lfile3
+[?2004hLab3$cmp ../file1 /[Kfile3
+[?2004l[?2004hLab3$cmp ../file1 file3[C[C[C[C[Cls[Kecho $?
+[?2004l0
+[?2004hLab3$de[K[Ksed -2[Ke, '1,2d' file3 > file4
+[?2004lsed: -e expression #1, char 1: unknown command: `,'
+[?2004hLab3$sed -e, '1,2d' file3 > file4[1P
+[?2004l[?2004hLab3$ls -l
+[?2004ltotal 8
+-rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
+-rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
+[?2004hLab3$cmp file3 file4
+[?2004lfile3 file4 differ: byte 1, line 1
+[?2004hLab3$echo $?
+[?2004l1
+[?2004hLab3$f[Kdiff ../file1 file3
+[?2004l[?2004hLab3$diff ../file1 file3[C[C[C[C[C[12Pecho $?
+[?2004l0
+[?2004hLab3$f[Kdiff file3 file4
+[?2004l1,2d0
+< root:x:0:
+< sys:x:3:
+[?2004hLab3$diff file3 file4[C[C[C[C[C[9Pecho $?
+[?2004l1
+[?2004hLab3$rm -i file3 file4
+[?2004lrm: remove regular file 'file3'? 
+rm: remove regular file 'file4'? 
+[?2004hLab3$s -l
+[?2004lbash: s: command not found
+[?2004hLab3$ls -l
+[?2004ltotal 8
+-rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
+-rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
+[?2004hLab3$history 20
+[?2004l   75  ls
+   76  mv file1 file3
+   77  cho $?
+   78  echo $?
+   79  ls
+   80  cmp ../file1 file3
+   81  echo $?
+   82  sed -e, '1,2d' file3 > file4
+   83  sed -e '1,2d' file3 > file4
+   84  ls -l
+   85  cmp file3 file4
+   86  echo $?
+   87  diff ../file1 file3
+   88  echo $?
+   89  diff file3 file4
+   90  echo $?
+   91  rm -i file3 file4
+   92  s -l
+   93  ls -l
+   94  history 20
+[?2004hLab3$!!
+[?2004lhistory 20
+   75  ls
+   76  mv file1 file3
+   77  cho $?
+   78  echo $?
+   79  ls
+   80  cmp ../file1 file3
+   81  echo $?
+   82  sed -e, '1,2d' file3 > file4
+   83  sed -e '1,2d' file3 > file4
+   84  ls -l
+   85  cmp file3 file4
+   86  echo $?
+   87  diff ../file1 file3
+   88  echo $?
+   89  diff file3 file4
+   90  echo $?
+   91  rm -i file3 file4
+   92  s -l
+   93  ls -l
+   94  history 20
+[?2004hLab3$!84
+[?2004lls -l
+total 8
+-rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
+-rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
+[?2004hLab3$!-5
+[?2004lrm -i file3 file4
+rm: remove regular file 'file3'? 
+rm: remove regular file 'file4'? 
+[?2004hLab3$!-2
+[?2004lls -l
+total 8
+-rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
+-rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
+[?2004hLab3$set -o vi
+[?2004l[?2004hLab3$set -o vi[C[C[C[C[C
+[?2004l[?2004hLab3$set -o vi[C[C[C[C[C[4Pls -l
+[?2004ltotal 8
+-rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
+-rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
+[?2004hLab3$ls -lset -o vi[C[C[C[C[C[4Pls -lrm -i file3 file4[C[C[C[C[Cls -l[Khistory 20[C[C[C[C[C
+[?2004l   81  echo $?
+   82  sed -e, '1,2d' file3 > file4
+   83  sed -e '1,2d' file3 > file4
+   84  ls -l
+   85  cmp file3 file4
+   86  echo $?
+   87  diff ../file1 file3
+   88  echo $?
+   89  diff file3 file4
+   90  echo $?
+   91  rm -i file3 file4
+   92  s -l
+   93  ls -l
+   94  history 20
+   95  ls -l
+   96  rm -i file3 file4
+   97  ls -l
+   98  set -o vi
+   99  ls -l
+  100  history 20
+[?2004hLab3$
+
+Lab3$
+
+Lab3$history 20[C[C[C[C[C[5Pls -lset -o vi[C[C[C[C[C[4Pls -lrm -i file3 file4[C[C[C[C[Cls -l[Krm -i file3 file4[C[C[C[C[Cls -l[Kset -o vi[C[C[C[C[C[4Pls -lhistory 20[C[C[C[C[C[K^C[?2004l[?2004h[?2004l
+[?2004hLab3$ls
+[?2004lfile3  file4
+[?2004hLab3$
+[?2004l[?2004hLab3$/ls
+[?2004lbash: /ls: No such file or directory
+[?2004hLab3$/[K/[K/ls
+[?2004lbash: /ls: No such file or directory
+[?2004hLab3$/ls
+[?2004lbash: /ls: No such file or directory
+[?2004hLab3$history 20
+[?2004l   84  ls -l
+   85  cmp file3 file4
+   86  echo $?
+   87  diff ../file1 file3
+   88  echo $?
+   89  diff file3 file4
+   90  echo $?
+   91  rm -i file3 file4
+   92  s -l
+   93  ls -l
+   94  history 20
+   95  ls -l
+   96  rm -i file3 file4
+   97  ls -l
+   98  set -o vi
+   99  ls -l
+  100  history 20
+  101  ls
+  102  /ls
+  103  history 20
+[?2004hLab3$/ls[1P[1@/history 20[C[C[C[C[C/ls[K
+[?2004lbash: /ls: No such file or directory
+[?2004hLab3$/[K/ls
+[?2004lbash: /ls: No such file or directory
+[?2004hLab3$/lshistory 20[C[C[C[C[C/ls[K[1P[C[Chistory 20[C[C[C[C[C[5Pls -lset -o vi[C[C[C[C[C[4Pls -lA[K[Cp
+[?2004ltotal 8
+-rw-r--r--. 1 kalidotchai kalidotchai 1107 Feb 17 18:29 file3
+-rw-r--r--. 1 kalidotchai kalidotchai 1088 Feb 17 18:30 file4
+[?2004hLab3$exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                                      ]7;file://lumberjack/home/kalidotchai/.git\]666;vte.shell.postexec=0\]666;vte.shell.precmd!\]2;kalidotchai@lumberjack:~/.git]1;~/.git]7;file://lumberjack/home/kalidotchai/.git\[0m[27m[24m[J[0;34m[1m..[[0m[0m[1;32mkalidotchai[1;30m@[0m[0;36mlumberjack[0;34m[1m][0m[0m - [0m[0;34m[1m[[0m[1;37m~/.git[0;34m[1m][0m[0m - [0;34m[1m[[0m[0;33mTue Feb 17, 06:36[0m[0;34m[1m][0m[0m
+[0;34m[1m..[1m[[1;35m$[0;34m[1m] <()>[0m[0m [K[?1h=[?2004heexit[?1l>[?2004l
+]133;C\]2;exit]1;exit
+Script done on 2026-02-17 18:36:21-08:00 [COMMAND_EXIT_CODE="0"]
