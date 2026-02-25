@@ -1,0 +1,291 @@
+Script started on 2026-02-11 17:54:39-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="154" LINES="20"]
+
+[?25l[?7l[38;2;255;28;141m                                           [39m[49m
+[38;2;255;28;141m                             ....          [39m[49m
+[38;2;255;28;141m              .',:clooo:  .:looooo:.       [39m[49m
+[38;2;255;28;141m           .;looooooooc  .oooooooooo'      [39m[49m
+[38;2;255;28;141m        .;looooool:,''.  :ooooooooooc      [39m[49m
+[38;2;255;28;141m       ;looool;.         'oooooooooo,      [39m[49m
+[38;2;255;28;141m      ;clool'             .cooooooc.  ,,   [39m[49m
+[38;2;255;28;141m         ...                ......  .:oo,  [39m[49m
+[38;2;255;215;0m  .;clol:,.                        .loooo' [39m[49m
+[38;2;255;215;0m :ooooooooo,                        'ooool [39m[49m
+[38;2;255;215;0m'ooooooooooo.                        loooo.[39m[49m
+[38;2;255;215;0m'ooooooooool                         coooo.[39m[49m
+[38;2;255;215;0m ,loooooooc.                        .loooo.[39m[49m
+[38;2;255;215;0m   .,;;;'.                          ;ooooc [39m[49m
+[38;2;255;215;0m       ...                         ,ooool. [39m[49m
+[38;2;26;179;255m    .cooooc.              ..',,'.  .cooo.  [39m[49m
+[38;2;26;179;255m      ;ooooo:.           ;oooooooc.  :l.   [39m[49m
+[38;2;26;179;255m       .coooooc,..      coooooooooo.       [39m[49m
+[38;2;26;179;255m         .:ooooooolc:. .ooooooooooo'       [39m[49m
+[38;2;26;179;255m           .':loooooo;  ,oooooooooc        [39m[49m
+[38;2;26;179;255m               ..';::c'  .;loooo:'         [39m[49m
+[38;2;26;179;255m                             .             [39m[49m
+[38;2;26;179;255m                                           [39m[49m[0m
+[23A[9999999D[46C[0m[1m[31m[1mkalidotchai[0m@[31m[1mair-fryer[0m 
+[46C[0m---------------------[0m 
+[46C[0m[31m[1mOS[0m[0m:[0m Ubuntu trixie/sid (noble) x86_64[0m 
+[46C[0m[31m[1mKernel[0m[0m:[0m 6.14.0-37-generic[0m 
+[46C[0m[31m[1mUptime[0m[0m:[0m 4 days, 19 hours, 2 mins[0m 
+[46C[0m[31m[1mPackages[0m[0m:[0m 1897 (dpkg), 23 (snap)[0m 
+[46C[0m[31m[1mShell[0m[0m:[0m bash 5.2.21[0m 
+[46C[0m[31m[1mResolution[0m[0m:[0m 1920x1080 @ 60.00Hz, 1920x1080 @ 60.00Hz[0m 
+[46C[0m[31m[1mDE[0m[0m:[0m GNOME 46.0 (x11)[0m 
+[46C[0m[31m[1mWM[0m[0m:[0m Mutter[0m 
+[46C[0m[31m[1mWM Theme[0m[0m:[0m Adwaita[0m 
+[46C[0m[31m[1mTheme[0m[0m:[0m Yaru-dark [GTK2/3][0m 
+[46C[0m[31m[1mIcons[0m[0m:[0m Yaru [GTK2/3][0m 
+[46C[0m[31m[1mCursor[0m[0m:[0m Adwaita [GTK2/3][0m 
+[46C[0m[31m[1mTerminal[0m[0m:[0m vscode[0m 
+[46C[0m[31m[1mCPU[0m[0m:[0m AMD Ryzen 5 5600X (12) @ 4.8GHz[0m 
+[46C[0m[31m[1mGPU[0m[0m:[0m NVIDIA GeForce GTX 1660 SUPER[0m 
+[46C[0m[31m[1mMemory[0m[0m:[0m 21.29 GiB / 62.72 GiB (33%)[0m 
+[46C[0m[31m[1mNetwork[0m[0m:[0m Wifi[0m 
+[46C[0m[31m[1mBIOS[0m[0m:[0m American Megatrends Inc. 5.17 (08/03/2021)[0m 
+
+[46C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [39;49m
+[46C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [39;49m
+
+[?25h[?7h[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab2[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab2[00m$ exitsudo apt install build_essentialexit[K[Kexitsudo apt install build_essential[15Pcc -o lab2 lab2.cls -l[Knvim lab2.c[K[2Pcd Lab2/lab2.c[Knvim lab2.c[6Pls -lcc -o lab2 lab2.c
+[?2004lCommand 'cc' not found, but can be installed with:
+sudo apt install gcc              # version 4:13.2.0-2ubuntu1, or
+sudo apt install clang            # version 1:17.0-58~exp1
+sudo apt install pcc              # version 1.2.0~DEVEL+20220331-1
+sudo apt install pentium-builder  # version 0.21+nmu2ubuntu1
+sudo apt install tcc              # version 0.9.27+git20200814.62c30a4a-1
+[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab2[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab2[00m$ sudo apt install builkd[K[Kd-essential
+[?2004l[sudo] password for kalidotchai: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+The following additional packages will be installed:
+  binutils binutils-common binutils-x86-64-linux-gnu dpkg-dev fakeroot g++ g++-13 g++-13-x86-64-linux-gnu g++-x86-64-linux-gnu gcc gcc-13
+  gcc-13-x86-64-linux-gnu gcc-x86-64-linux-gnu libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libasan8 libbinutils libcc1-0
+  libctf-nobfd0 libctf0 libdpkg-perl libfakeroot libfile-fcntllock-perl libgcc-13-dev libgprofng0 libhwasan0 libitm1 liblsan0 libquadmath0 libsframe1
+  libstdc++-13-dev libtsan2 libubsan1 lto-disabled-list make
+Suggested packages:
+  binutils-doc gprofng-gui debian-keyring g++-multilib g++-13-multilib gcc-13-doc gcc-multilib autoconf automake libtool flex bison gcc-doc
+  gcc-13-multilib gcc-13-locales gdb-x86-64-linux-gnu bzr libstdc++-13-doc make-doc
+The following NEW packages will be installed:
+  binutils binutils-common binutils-x86-64-linux-gnu build-essential dpkg-dev fakeroot g++ g++-13 g++-13-x86-64-linux-gnu g++-x86-64-linux-gnu gcc
+  gcc-13 gcc-13-x86-64-linux-gnu gcc-x86-64-linux-gnu libalgorithm-diff-perl libalgorithm-diff-xs-perl libalgorithm-merge-perl libasan8 libbinutils
+  libcc1-0 libctf-nobfd0 libctf0 libdpkg-perl libfakeroot libfile-fcntllock-perl libgcc-13-dev libgprofng0 libhwasan0 libitm1 liblsan0 libquadmath0
+  libsframe1 libstdc++-13-dev libtsan2 libubsan1 lto-disabled-list make
+0 upgraded, 37 newly installed, 0 to remove and 30 not upgraded.
+Need to get 55.1 MB of archives.
+After this operation, 194 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+[33m0% [Working][0m            Get:1 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 binutils-common amd64 2.42-4ubuntu2.8 [240 kB]
+[33m0% [1 binutils-common 4,052 B/240 kB 2%][0m[33m                                        1% [Working][0m            Get:2 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libsframe1 amd64 2.42-4ubuntu2.8 [15.6 kB]
+[33m1% [2 libsframe1 5,502 B/15.6 kB 35%][0m[33m                                     1% [Working][0m            Get:3 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libbinutils amd64 2.42-4ubuntu2.8 [576 kB]
+[33m1% [3 libbinutils 5,548 B/576 kB 1%][0m[33m                                    3% [Waiting for headers][0m                        Get:4 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libctf-nobfd0 amd64 2.42-4ubuntu2.8 [97.9 kB]
+[33m3% [4 libctf-nobfd0 2,457 B/97.9 kB 3%][0m[33m                                       4% [Working][0m            Get:5 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libctf0 amd64 2.42-4ubuntu2.8 [94.5 kB]
+[33m4% [5 libctf0 483 B/94.5 kB 1%][0m[33m                               4% [Working][0m            Get:6 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgprofng0 amd64 2.42-4ubuntu2.8 [849 kB]
+[33m4% [6 libgprofng0 16 B/849 kB 0%][0m[33m                                 6% [Working][0m            Get:7 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 binutils-x86-64-linux-gnu amd64 2.42-4ubuntu2.8 [2,463 kB]
+[33m6% [7 binutils-x86-64-linux-gnu 10.4 kB/2,463 kB 0%][0m[33m                                                    10% [Waiting for headers][0m                         Get:8 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 binutils amd64 2.42-4ubuntu2.8 [18.1 kB]
+[33m10% [8 binutils 17.7 kB/18.1 kB 98%][0m[33m                                    11% [Working][0m             Get:9 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libcc1-0 amd64 14.2.0-4ubuntu2~24.04 [48.0 kB]
+[33m11% [9 libcc1-0 24.6 kB/48.0 kB 51%][0m[33m                                    11% [Working][0m             Get:10 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libitm1 amd64 14.2.0-4ubuntu2~24.04 [29.7 kB]
+[33m11% [10 libitm1 16.4 kB/29.7 kB 55%][0m[33m                                    12% [Working][0m             Get:11 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libasan8 amd64 14.2.0-4ubuntu2~24.04 [3,031 kB]
+[33m12% [11 libasan8 21.9 kB/3,031 kB 1%][0m[33m                                     17% [Working][0m             Get:12 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 liblsan0 amd64 14.2.0-4ubuntu2~24.04 [1,322 kB]
+[33m17% [12 liblsan0 3,212 B/1,322 kB 0%][0m[33m                                     19% [Waiting for headers][0m                         Get:13 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libtsan2 amd64 14.2.0-4ubuntu2~24.04 [2,772 kB]
+[33m19% [13 libtsan2 37.2 kB/2,772 kB 1%][0m[33m                                     24% [Waiting for headers][0m                         Get:14 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libubsan1 amd64 14.2.0-4ubuntu2~24.04 [1,184 kB]
+[33m24% [14 libubsan1 39.4 kB/1,184 kB 3%][0m[33m                                      26% [Waiting for headers][0m                         Get:15 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libhwasan0 amd64 14.2.0-4ubuntu2~24.04 [1,641 kB]
+[33m26% [15 libhwasan0 11.3 kB/1,641 kB 1%][0m[33m                                       29% [Waiting for headers][0m                         Get:16 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libquadmath0 amd64 14.2.0-4ubuntu2~24.04 [153 kB]
+[33m29% [16 libquadmath0 32.5 kB/153 kB 21%][0m[33m                                        30% [Working][0m             Get:17 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgcc-13-dev amd64 13.3.0-6ubuntu2~24.04 [2,681 kB]
+[33m30% [17 libgcc-13-dev 9,842 B/2,681 kB 0%][0m[33m                                          34% [Working][0m             Get:18 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 gcc-13-x86-64-linux-gnu amd64 13.3.0-6ubuntu2~24.04 [21.1 MB]
+[33m34% [18 gcc-13-x86-64-linux-gnu 72.5 kB/21.1 MB 0%][0m[33m50% [18 gcc-13-x86-64-linux-gnu 11.0 MB/21.1 MB 52%][0m[33m                                                    65% [Working][0m             Get:19 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 gcc-13 amd64 13.3.0-6ubuntu2~24.04 [494 kB]
+[33m65% [19 gcc-13 28.5 kB/494 kB 6%][0m[33m                                 67% [Working][0m             Get:20 http://us.archive.ubuntu.com/ubuntu noble/main amd64 gcc-x86-64-linux-gnu amd64 4:13.2.0-7ubuntu1 [1,212 B]
+[33m67% [Waiting for headers][0m                         Get:21 http://us.archive.ubuntu.com/ubuntu noble/main amd64 gcc amd64 4:13.2.0-7ubuntu1 [5,018 B]
+[33m                         68% [Working][0m             Get:22 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libstdc++-13-dev amd64 13.3.0-6ubuntu2~24.04 [2,420 kB]
+[33m68% [22 libstdc++-13-dev 28.7 kB/2,420 kB 1%][0m[33m                                             72% [Waiting for headers][0m                         Get:23 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 g++-13-x86-64-linux-gnu amd64 13.3.0-6ubuntu2~24.04 [12.2 MB]
+[33m72% [23 g++-13-x86-64-linux-gnu 5,260 B/12.2 MB 0%][0m[33m85% [23 g++-13-x86-64-linux-gnu 9,152 kB/12.2 MB 75%][0m[33m                                                     90% [Waiting for headers][0m                         Get:24 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 g++-13 amd64 13.3.0-6ubuntu2~24.04 [16.1 kB]
+[33m90% [24 g++-13 16.1 kB/16.1 kB 100%][0m                                    Get:25 http://us.archive.ubuntu.com/ubuntu noble/main amd64 g++-x86-64-linux-gnu amd64 4:13.2.0-7ubuntu1 [964 B]
+[33m90% [25 g++-x86-64-linux-gnu 964 B/964 B 100%][0m[33m                                              91% [Waiting for headers][0m                         Get:26 http://us.archive.ubuntu.com/ubuntu noble/main amd64 g++ amd64 4:13.2.0-7ubuntu1 [1,100 B]
+[33m91% [26 g++ 1,100 B/1,100 B 100%][0m[33m                                 92% [Working][0m             Get:27 http://us.archive.ubuntu.com/ubuntu noble/main amd64 make amd64 4.3-4.1build2 [180 kB]
+[33m92% [27 make 24.6 kB/180 kB 14%][0m[33m                                92% [Working][0m             Get:28 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libdpkg-perl all 1.22.6ubuntu6.5 [269 kB]
+[33m92% [28 libdpkg-perl 49.2 kB/269 kB 18%][0m[33m                                        93% [Working][0m             Get:29 http://us.archive.ubuntu.com/ubuntu noble/main amd64 lto-disabled-list all 47 [12.4 kB]
+[33m93% [29 lto-disabled-list 12.4 kB/12.4 kB 100%][0m[33m                                               94% [Waiting for headers][0m                         Get:30 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 dpkg-dev all 1.22.6ubuntu6.5 [1,074 kB]
+[33m94% [30 dpkg-dev 13.0 kB/1,074 kB 1%][0m[33m                                     96% [Working][0m             Get:31 http://us.archive.ubuntu.com/ubuntu noble/main amd64 build-essential amd64 12.10ubuntu1 [4,928 B]
+[33m96% [31 build-essential 3,188 B/4,928 B 65%][0m[33m                                            96% [Waiting for headers][0m                         Get:32 http://us.archive.ubuntu.com/ubuntu noble/main amd64 libfakeroot amd64 1.33-1 [32.4 kB]
+[33m97% [32 libfakeroot 24.6 kB/32.4 kB 76%][0m[33m                                        97% [Waiting for headers][0m                         Get:33 http://us.archive.ubuntu.com/ubuntu noble/main amd64 fakeroot amd64 1.33-1 [67.2 kB]
+[33m97% [33 fakeroot 31.6 kB/67.2 kB 47%][0m[33m                                     98% [Working][0m             Get:34 http://us.archive.ubuntu.com/ubuntu noble/main amd64 libalgorithm-diff-perl all 1.201-1 [41.8 kB]
+[33m98% [34 libalgorithm-diff-perl 24.3 kB/41.8 kB 58%][0m[33m                                                   98% [Working][0m             Get:35 http://us.archive.ubuntu.com/ubuntu noble/main amd64 libalgorithm-diff-xs-perl amd64 0.04-8build3 [11.2 kB]
+[33m98% [35 libalgorithm-diff-xs-perl 11.2 kB/11.2 kB 100%][0m[33m                                                       99% [Waiting for headers][0m                         Get:36 http://us.archive.ubuntu.com/ubuntu noble/main amd64 libalgorithm-merge-perl all 0.08-5 [11.4 kB]
+[33m99% [36 libalgorithm-merge-perl 7,689 B/11.4 kB 68%][0m[33m                                                    99% [Waiting for headers][0m                         Get:37 http://us.archive.ubuntu.com/ubuntu noble/main amd64 libfile-fcntllock-perl amd64 0.22-4ubuntu5 [30.7 kB]
+[33m99% [37 libfile-fcntllock-perl 17.0 kB/30.7 kB 55%][0m[33m                                                   100% [Working][0m              Fetched 55.1 MB in 4s (15.2 MB/s)
+Extracting templates from packages: 81%Extracting templates from packages: 100%
+
+7[0;19r8[1ASelecting previously unselected package binutils-common:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 223161 files and directories currently installed.)
+Preparing to unpack .../00-binutils-common_2.42-4ubuntu2.8_amd64.deb ...
+7[20;0f[42m[30mProgress: [  0%][49m[39m [....................................................................................................................................] 8Unpacking binutils-common:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [  1%][49m[39m [#...................................................................................................................................] 8Selecting previously unselected package libsframe1:amd64.
+Preparing to unpack .../01-libsframe1_2.42-4ubuntu2.8_amd64.deb ...
+7[20;0f[42m[30mProgress: [  2%][49m[39m [##..................................................................................................................................] 8Unpacking libsframe1:amd64 (2.42-4ubuntu2.8) ...
+Selecting previously unselected package libbinutils:amd64.
+Preparing to unpack .../02-libbinutils_2.42-4ubuntu2.8_amd64.deb ...
+7[20;0f[42m[30mProgress: [  3%][49m[39m [####................................................................................................................................] 8Unpacking libbinutils:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [  4%][49m[39m [#####...............................................................................................................................] 8Selecting previously unselected package libctf-nobfd0:amd64.
+Preparing to unpack .../03-libctf-nobfd0_2.42-4ubuntu2.8_amd64.deb ...
+Unpacking libctf-nobfd0:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [  5%][49m[39m [#######.............................................................................................................................] 8Selecting previously unselected package libctf0:amd64.
+Preparing to unpack .../04-libctf0_2.42-4ubuntu2.8_amd64.deb ...
+7[20;0f[42m[30mProgress: [  6%][49m[39m [#######.............................................................................................................................] 8Unpacking libctf0:amd64 (2.42-4ubuntu2.8) ...
+Selecting previously unselected package libgprofng0:amd64.
+Preparing to unpack .../05-libgprofng0_2.42-4ubuntu2.8_amd64.deb ...
+7[20;0f[42m[30mProgress: [  7%][49m[39m [#########...........................................................................................................................] 8Unpacking libgprofng0:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [  8%][49m[39m [##########..........................................................................................................................] 8Selecting previously unselected package binutils-x86-64-linux-gnu.
+Preparing to unpack .../06-binutils-x86-64-linux-gnu_2.42-4ubuntu2.8_amd64.deb ...
+Unpacking binutils-x86-64-linux-gnu (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [  9%][49m[39m [############........................................................................................................................] 8Selecting previously unselected package binutils.
+Preparing to unpack .../07-binutils_2.42-4ubuntu2.8_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 10%][49m[39m [#############.......................................................................................................................] 8Unpacking binutils (2.42-4ubuntu2.8) ...
+Selecting previously unselected package libcc1-0:amd64.
+Preparing to unpack .../08-libcc1-0_14.2.0-4ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 11%][49m[39m [###############.....................................................................................................................] 8Unpacking libcc1-0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 12%][49m[39m [###############.....................................................................................................................] 8Selecting previously unselected package libitm1:amd64.
+Preparing to unpack .../09-libitm1_14.2.0-4ubuntu2~24.04_amd64.deb ...
+Unpacking libitm1:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 13%][49m[39m [#################...................................................................................................................] 8Selecting previously unselected package libasan8:amd64.
+Preparing to unpack .../10-libasan8_14.2.0-4ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 14%][49m[39m [##################..................................................................................................................] 8Unpacking libasan8:amd64 (14.2.0-4ubuntu2~24.04) ...
+Selecting previously unselected package liblsan0:amd64.
+Preparing to unpack .../11-liblsan0_14.2.0-4ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 15%][49m[39m [####################................................................................................................................] 8Unpacking liblsan0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 16%][49m[39m [#####################...............................................................................................................] 8Selecting previously unselected package libtsan2:amd64.
+Preparing to unpack .../12-libtsan2_14.2.0-4ubuntu2~24.04_amd64.deb ...
+Unpacking libtsan2:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 17%][49m[39m [#######################.............................................................................................................] 8Selecting previously unselected package libubsan1:amd64.
+Preparing to unpack .../13-libubsan1_14.2.0-4ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 18%][49m[39m [#######################.............................................................................................................] 8Unpacking libubsan1:amd64 (14.2.0-4ubuntu2~24.04) ...
+Selecting previously unselected package libhwasan0:amd64.
+Preparing to unpack .../14-libhwasan0_14.2.0-4ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 19%][49m[39m [#########################...........................................................................................................] 8Unpacking libhwasan0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 20%][49m[39m [##########################..........................................................................................................] 8Selecting previously unselected package libquadmath0:amd64.
+Preparing to unpack .../15-libquadmath0_14.2.0-4ubuntu2~24.04_amd64.deb ...
+Unpacking libquadmath0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 21%][49m[39m [############################........................................................................................................] 8Selecting previously unselected package libgcc-13-dev:amd64.
+Preparing to unpack .../16-libgcc-13-dev_13.3.0-6ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 22%][49m[39m [#############################.......................................................................................................] 8Unpacking libgcc-13-dev:amd64 (13.3.0-6ubuntu2~24.04) ...
+Selecting previously unselected package gcc-13-x86-64-linux-gnu.
+Preparing to unpack .../17-gcc-13-x86-64-linux-gnu_13.3.0-6ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 23%][49m[39m [###############################.....................................................................................................] 8Unpacking gcc-13-x86-64-linux-gnu (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 24%][49m[39m [###############################.....................................................................................................] 8Selecting previously unselected package gcc-13.
+Preparing to unpack .../18-gcc-13_13.3.0-6ubuntu2~24.04_amd64.deb ...
+Unpacking gcc-13 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 26%][49m[39m [#################################...................................................................................................] 8Selecting previously unselected package gcc-x86-64-linux-gnu.
+Preparing to unpack .../19-gcc-x86-64-linux-gnu_4%3a13.2.0-7ubuntu1_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 26%][49m[39m [##################################..................................................................................................] 8Unpacking gcc-x86-64-linux-gnu (4:13.2.0-7ubuntu1) ...
+Selecting previously unselected package gcc.
+Preparing to unpack .../20-gcc_4%3a13.2.0-7ubuntu1_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 28%][49m[39m [####################################................................................................................................] 8Unpacking gcc (4:13.2.0-7ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 28%][49m[39m [#####################################...............................................................................................] 8Selecting previously unselected package libstdc++-13-dev:amd64.
+Preparing to unpack .../21-libstdc++-13-dev_13.3.0-6ubuntu2~24.04_amd64.deb ...
+Unpacking libstdc++-13-dev:amd64 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 30%][49m[39m [######################################..............................................................................................] 8Selecting previously unselected package g++-13-x86-64-linux-gnu.
+Preparing to unpack .../22-g++-13-x86-64-linux-gnu_13.3.0-6ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 30%][49m[39m [#######################################.............................................................................................] 8Unpacking g++-13-x86-64-linux-gnu (13.3.0-6ubuntu2~24.04) ...
+Selecting previously unselected package g++-13.
+Preparing to unpack .../23-g++-13_13.3.0-6ubuntu2~24.04_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 32%][49m[39m [#########################################...........................................................................................] 8Unpacking g++-13 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 32%][49m[39m [##########################################..........................................................................................] 8Selecting previously unselected package g++-x86-64-linux-gnu.
+Preparing to unpack .../24-g++-x86-64-linux-gnu_4%3a13.2.0-7ubuntu1_amd64.deb ...
+Unpacking g++-x86-64-linux-gnu (4:13.2.0-7ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 34%][49m[39m [############################################........................................................................................] 8Selecting previously unselected package g++.
+Preparing to unpack .../25-g++_4%3a13.2.0-7ubuntu1_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 34%][49m[39m [#############################################.......................................................................................] 8Unpacking g++ (4:13.2.0-7ubuntu1) ...
+Selecting previously unselected package make.
+Preparing to unpack .../26-make_4.3-4.1build2_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 36%][49m[39m [##############################################......................................................................................] 8Unpacking make (4.3-4.1build2) ...
+7[20;0f[42m[30mProgress: [ 36%][49m[39m [###############################################.....................................................................................] 8Selecting previously unselected package libdpkg-perl.
+Preparing to unpack .../27-libdpkg-perl_1.22.6ubuntu6.5_all.deb ...
+Unpacking libdpkg-perl (1.22.6ubuntu6.5) ...
+7[20;0f[42m[30mProgress: [ 38%][49m[39m [#################################################...................................................................................] 8Selecting previously unselected package lto-disabled-list.
+Preparing to unpack .../28-lto-disabled-list_47_all.deb ...
+7[20;0f[42m[30mProgress: [ 38%][49m[39m [##################################################..................................................................................] 8Unpacking lto-disabled-list (47) ...
+Selecting previously unselected package dpkg-dev.
+Preparing to unpack .../29-dpkg-dev_1.22.6ubuntu6.5_all.deb ...
+7[20;0f[42m[30mProgress: [ 40%][49m[39m [####################################################................................................................................] 8Unpacking dpkg-dev (1.22.6ubuntu6.5) ...
+7[20;0f[42m[30mProgress: [ 40%][49m[39m [#####################################################...............................................................................] 8Selecting previously unselected package build-essential.
+Preparing to unpack .../30-build-essential_12.10ubuntu1_amd64.deb ...
+Unpacking build-essential (12.10ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 42%][49m[39m [######################################################..............................................................................] 8Selecting previously unselected package libfakeroot:amd64.
+Preparing to unpack .../31-libfakeroot_1.33-1_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 42%][49m[39m [#######################################################.............................................................................] 8Unpacking libfakeroot:amd64 (1.33-1) ...
+Selecting previously unselected package fakeroot.
+Preparing to unpack .../32-fakeroot_1.33-1_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 44%][49m[39m [#########################################################...........................................................................] 8Unpacking fakeroot (1.33-1) ...
+7[20;0f[42m[30mProgress: [ 44%][49m[39m [##########################################################..........................................................................] 8Selecting previously unselected package libalgorithm-diff-perl.
+Preparing to unpack .../33-libalgorithm-diff-perl_1.201-1_all.deb ...
+Unpacking libalgorithm-diff-perl (1.201-1) ...
+7[20;0f[42m[30mProgress: [ 46%][49m[39m [############################################################........................................................................] 8Selecting previously unselected package libalgorithm-diff-xs-perl:amd64.
+Preparing to unpack .../34-libalgorithm-diff-xs-perl_0.04-8build3_amd64.deb ...
+7[20;0f[42m[30mProgress: [ 46%][49m[39m [#############################################################.......................................................................] 8Unpacking libalgorithm-diff-xs-perl:amd64 (0.04-8build3) ...
+Selecting previously unselected package libalgorithm-merge-perl.
+Preparing to unpack .../35-libalgorithm-merge-perl_0.08-5_all.deb ...
+7[20;0f[42m[30mProgress: [ 48%][49m[39m [##############################################################......................................................................] 8Unpacking libalgorithm-merge-perl (0.08-5) ...
+7[20;0f[42m[30mProgress: [ 48%][49m[39m [###############################################################.....................................................................] 8Selecting previously unselected package libfile-fcntllock-perl.
+Preparing to unpack .../36-libfile-fcntllock-perl_0.22-4ubuntu5_amd64.deb ...
+Unpacking libfile-fcntllock-perl (0.22-4ubuntu5) ...
+7[20;0f[42m[30mProgress: [ 50%][49m[39m [#################################################################...................................................................] 8Setting up lto-disabled-list (47) ...
+7[20;0f[42m[30mProgress: [ 50%][49m[39m [##################################################################..................................................................] 87[20;0f[42m[30mProgress: [ 51%][49m[39m [###################################################################.................................................................] 8Setting up libfile-fcntllock-perl (0.22-4ubuntu5) ...
+7[20;0f[42m[30mProgress: [ 52%][49m[39m [#####################################################################...............................................................] 8Setting up libalgorithm-diff-perl (1.201-1) ...
+7[20;0f[42m[30mProgress: [ 53%][49m[39m [#####################################################################...............................................................] 8Setting up binutils-common:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 54%][49m[39m [#######################################################################.............................................................] 87[20;0f[42m[30mProgress: [ 55%][49m[39m [########################################################################............................................................] 8Setting up libctf-nobfd0:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 56%][49m[39m [##########################################################################..........................................................] 8Setting up libsframe1:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 57%][49m[39m [###########################################################################.........................................................] 8Setting up libfakeroot:amd64 (1.33-1) ...
+7[20;0f[42m[30mProgress: [ 58%][49m[39m [#############################################################################.......................................................] 87[20;0f[42m[30mProgress: [ 59%][49m[39m [#############################################################################.......................................................] 8Setting up fakeroot (1.33-1) ...
+update-alternatives: using /usr/bin/fakeroot-sysv to provide /usr/bin/fakeroot (fakeroot) in auto mode
+7[20;0f[42m[30mProgress: [ 60%][49m[39m [###############################################################################.....................................................] 8Setting up make (4.3-4.1build2) ...
+7[20;0f[42m[30mProgress: [ 61%][49m[39m [################################################################################....................................................] 8Setting up libquadmath0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 62%][49m[39m [##################################################################################..................................................] 87[20;0f[42m[30mProgress: [ 63%][49m[39m [###################################################################################.................................................] 8Setting up libdpkg-perl (1.22.6ubuntu6.5) ...
+7[20;0f[42m[30mProgress: [ 64%][49m[39m [#####################################################################################...............................................] 8Setting up libubsan1:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 65%][49m[39m [#####################################################################################...............................................] 8Setting up libhwasan0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 66%][49m[39m [#######################################################################################.............................................] 87[20;0f[42m[30mProgress: [ 67%][49m[39m [########################################################################################............................................] 8Setting up libasan8:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 68%][49m[39m [##########################################################################################..........................................] 8Setting up libtsan2:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 69%][49m[39m [###########################################################################################.........................................] 8Setting up libbinutils:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 70%][49m[39m [#############################################################################################.......................................] 87[20;0f[42m[30mProgress: [ 71%][49m[39m [#############################################################################################.......................................] 8Setting up libalgorithm-diff-xs-perl:amd64 (0.04-8build3) ...
+7[20;0f[42m[30mProgress: [ 72%][49m[39m [###############################################################################################.....................................] 8Setting up libcc1-0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 73%][49m[39m [################################################################################################....................................] 8Setting up liblsan0:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 74%][49m[39m [##################################################################################################..................................] 87[20;0f[42m[30mProgress: [ 75%][49m[39m [###################################################################################################.................................] 8Setting up libitm1:amd64 (14.2.0-4ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 77%][49m[39m [####################################################################################################................................] 8Setting up libalgorithm-merge-perl (0.08-5) ...
+7[20;0f[42m[30mProgress: [ 77%][49m[39m [#####################################################################################################...............................] 8Setting up libctf0:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 79%][49m[39m [#######################################################################################################.............................] 87[20;0f[42m[30mProgress: [ 79%][49m[39m [########################################################################################################............................] 8Setting up libgprofng0:amd64 (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 81%][49m[39m [##########################################################################################################..........................] 8Setting up libgcc-13-dev:amd64 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 81%][49m[39m [###########################################################################################################.........................] 8Setting up libstdc++-13-dev:amd64 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 83%][49m[39m [############################################################################################################........................] 87[20;0f[42m[30mProgress: [ 83%][49m[39m [#############################################################################################################.......................] 8Setting up binutils-x86-64-linux-gnu (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 85%][49m[39m [###############################################################################################################.....................] 8Setting up gcc-13-x86-64-linux-gnu (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 85%][49m[39m [################################################################################################################....................] 8Setting up binutils (2.42-4ubuntu2.8) ...
+7[20;0f[42m[30mProgress: [ 87%][49m[39m [##################################################################################################################..................] 87[20;0f[42m[30mProgress: [ 87%][49m[39m [###################################################################################################################.................] 8Setting up dpkg-dev (1.22.6ubuntu6.5) ...
+7[20;0f[42m[30mProgress: [ 89%][49m[39m [####################################################################################################################................] 8Setting up gcc-13 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 89%][49m[39m [#####################################################################################################################...............] 8Setting up g++-13-x86-64-linux-gnu (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 91%][49m[39m [#######################################################################################################################.............] 87[20;0f[42m[30mProgress: [ 91%][49m[39m [########################################################################################################################............] 8Setting up gcc-x86-64-linux-gnu (4:13.2.0-7ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 93%][49m[39m [##########################################################################################################################..........] 8Setting up gcc (4:13.2.0-7ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 93%][49m[39m [###########################################################################################################################.........] 8Setting up g++-x86-64-linux-gnu (4:13.2.0-7ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 95%][49m[39m [############################################################################################################################........] 87[20;0f[42m[30mProgress: [ 95%][49m[39m [#############################################################################################################################.......] 8Setting up g++-13 (13.3.0-6ubuntu2~24.04) ...
+7[20;0f[42m[30mProgress: [ 97%][49m[39m [###############################################################################################################################.....] 8Setting up g++ (4:13.2.0-7ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 97%][49m[39m [################################################################################################################################....] 8update-alternatives: using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode
+Setting up build-essential (12.10ubuntu1) ...
+7[20;0f[42m[30mProgress: [ 99%][49m[39m [##################################################################################################################################..] 87[20;0f[42m[30mProgress: [ 99%][49m[39m [###################################################################################################################################.] 8Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+
+7[0;20r8[1A[J[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab2[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab2[00m$ sudo apt install build-essential[15Pcc -o lab2 lab2.cexit[Kcc -o lab2 lab2.csudo apt install build-essential[Kls -l
+[?2004ltotal 276
+-rw-rw-r-- 1 kalidotchai kalidotchai  40960 Feb 11 17:55 KaliWilson_Lab2.txt
+-rw-rw-r-- 1 kalidotchai kalidotchai    394 Feb  5 21:49 lab2.c
+-rwxrwxr-x 1 kalidotchai kalidotchai  17440 Feb  5 21:49 [0m[01;32mlab2.out[0m
+-rw-rw-r-- 1 kalidotchai kalidotchai 214350 Feb  5 21:49 Lab2.pdf
+[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab2[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab2[00m$ sudo[K[K[K[Kls -lsudo apt install build-essentialls -l[K[Kls -lsudo apt install build-essential[15Pcc -o lab2 lab2.cexit[Kcc -o lab2 lab2.c
+[?2004l[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab2[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab2[00m$ ./lab2
+[?2004l
+Lab 2.
+
+Hello World
+Hi, Kali.
+
+"The greatest crimes arise not from necessity, but from excess."
+[?2004h]0;kalidotchai@air-fryer: ~/.git/CSC60/Lab2[01;32mkalidotchai@air-fryer[00m:[01;34m~/.git/CSC60/Lab2[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-11 17:55:37-08:00 [COMMAND_EXIT_CODE="0"]
